@@ -16,7 +16,7 @@ const About: React.FC = () => {
                2. Change the src below to "/profile.jpg".
             */}
             <img 
-                src="profile.jpg" 
+                src="images\Screenshot 2025-09-03 224523.png" 
                 alt="Santhosh S" 
                 className="rounded-lg shadow-xl w-full max-w-md h-auto object-cover hover:scale-[1.02] transition-transform duration-300"
             />
