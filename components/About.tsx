@@ -16,7 +16,7 @@ const About: React.FC = () => {
                2. Change the src below to "/profile.jpg".
             */}
             <img 
-                src="profile.jpg" 
+                src="https://drive.google.com/file/d/1Sa1MqFCzlYLLF3bZmOKnTzTSkSwWa4Pp/view?usp=sharing" 
                 alt="Santhosh S" 
                 className="rounded-lg shadow-xl w-full max-w-md h-auto object-cover hover:scale-[1.02] transition-transform duration-300"
             />
